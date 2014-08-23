@@ -6,5 +6,5 @@ A fork of code used in [funky-spider](https://github.com/rolandshoemaker/funky-s
 Requirements
 ------------
 
-* beautifulsoup4](http://www.crummy.com/software/BeautifulSoup/)
+* [beautifulsoup4](http://www.crummy.com/software/BeautifulSoup/)
 * [progressbar-python3](https://github.com/coagulant/progressbar-python3)
