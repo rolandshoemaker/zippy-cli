@@ -7,4 +7,4 @@ Requirements
 ------------
 
 * bs4
-* progressbar-python3
+* [progressbar-python3](https://github.com/coagulant/progressbar-python3)
