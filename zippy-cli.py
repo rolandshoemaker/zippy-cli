@@ -89,7 +89,7 @@ def zippy_attack(url):
 								if content_type[0] == "application/x-download":
 									if args.v:
 										print(colors.OKBLUE+"\tSuccess"+colors.ENDC)
-									widgets = [" ".join(zippy_title), Percentage(), ' ', Bar(), ' ', ETA(), ' ', FileTransferSpeed()]
+									widgets = [" "+" ".join(zippy_title)+" ", Percentage(), ' ', Bar(), ' ', ETA(), ' ', FileTransferSpeed()]
 									pbar = ProgressBar(widgets=widgets)
 									def dlProgress(count, blockSize, totalSize):
 										if pbar.maxval is None:
