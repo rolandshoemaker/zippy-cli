@@ -153,3 +153,4 @@ zippy_attack(args.URL[0])
 
 # Clean up
 cookies.clear()
+
